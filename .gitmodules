@@ -1,0 +1,6 @@
+[submodule "COMS30005-HPC-Serial"]
+	path = COMS30005-HPC-Serial
+	url = git@github.com:kheeran/COMS30005-HPC-Serial.git
+[submodule "COMS30005-HPC-Parallel"]
+	path = COMS30005-HPC-Parallel
+	url = git@github.com:kheeran/COMS30005-HPC-Parallel.git
