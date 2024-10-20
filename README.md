@@ -4,14 +4,14 @@
 
 ### Coursework 1 - Serial Optimisation :
 
-Details of the optimisations used are in [COMS30005-HPC-Serial/report.pdf)[https://github.com/kheeran/COMS30005-HPC-Serial/blob/759db167a6650709750fa9b4d79f851a1cb14661/report.pdf]
+Details of the optimisations used are in [COMS30005-HPC-Serial/report.pdf](https://github.com/kheeran/COMS30005-HPC-Serial/blob/759db167a6650709750fa9b4d79f851a1cb14661/report.pdf)
 
 
 ### Coursework 2 - Parallel Optimisation :
 
 *Follows directly from the serially optimised code from the first coursework*
 
-Optimisation details are in the file (COMS30005-HPC-Parallel/report.pdf)[https://github.com/kheeran/COMS30005-HPC-Parallel/blob/9c10ab8efaf2083b448f35a09025bf8ebf5abf39/report.pdf]
+Optimisation details are in the file [COMS30005-HPC-Parallel/report.pdf](https://github.com/kheeran/COMS30005-HPC-Parallel/blob/9c10ab8efaf2083b448f35a09025bf8ebf5abf39/report.pdf)
 
 ----------------------------------------------------------------------------------------------------------------
 QUESTION:
